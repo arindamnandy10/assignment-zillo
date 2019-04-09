@@ -1,0 +1,24 @@
+{
+  "name": "assignment-zillo",
+  "version": "1.0.0",
+  "description": "Example of image uploading in Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arindamnandy10/assignment-zillo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arindamnandy10/assignment-zillo/issues"
+  },
+  "homepage": "https://github.com/arindamnandy10/assignment-zillo#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "multer": "^1.4.1"
+  }
+}
